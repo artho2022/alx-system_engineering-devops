@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod guo+x,go-rw
+chmod a+x
